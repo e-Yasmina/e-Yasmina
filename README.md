@@ -14,7 +14,7 @@ I'm a software engineer passionate about Health IT, full-stack development, and 
 - Health IT APIs, Web Scraping, PL/SQL
 
 ## 📫 Connect with me
-- 🌐 ([LinkedIn]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/yasmina-elbernoussi-7146a2224))
+- 🌐 [LinkedIn]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/yasmina-elbernoussi-7146a2224)
 - 📧 yasminaelbernoussi@gmail.com
 
 <!--
