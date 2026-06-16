@@ -34,7 +34,8 @@ Building things that matter — one commit at a time
 
 ---
 
-🐍 Watch my contributions get eaten!
+"🐍 Watch my contributions get eaten!" heading:
+![snake gif](https://raw.githubusercontent.com/e-Yasmina/e-Yasmina/gh-pages/github-contribution-grid-snake-dark.svg)
 
 ---
 
