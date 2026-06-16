@@ -34,12 +34,12 @@ Building things that matter — one commit at a time
 
 ---
 
-"🐍 Watch my contributions get eaten!" heading:
+## 🐍 Watch my contributions get eaten!:
 ![snake gif](https://raw.githubusercontent.com/e-Yasmina/e-Yasmina/gh-pages/github-contribution-grid-snake-dark.svg)
 
 ---
 
-🧰 Tech Stack
+## 🧰 Tech Stack
 
 <div align="center">
   React · Laravel · Spring Boot · Python · JavaScript · SQL · PL/SQL · Keras
@@ -47,7 +47,7 @@ Building things that matter — one commit at a time
 
 ---
 
-📦 Projects I've Built
+## 📦 Projects I've Built
 
 | Project | Description | Stack |
 |--------|-------------|-------|
