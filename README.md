@@ -19,11 +19,9 @@ Building things that matter — one commit at a time
 ## ⚡ GitHub Analytics
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=e-Yasmina&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=e-Yasmina&show_icons=true&theme=light&include_all_commits=true&count_private=true&hide_border=true">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=e-Yasmina&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true">
-  </picture>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=e-Yasmina&show_icons=true&theme=transparent&hide_border=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=e-Yasmina&layout=compact&theme=transparent&hide_border=true"/>
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=e-Yasmina&layout=compact&theme=radical&hide_border=true">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=e-Yasmina&layout=compact&theme=default&hide_border=true">
@@ -46,8 +44,17 @@ Building things that matter — one commit at a time
     <img src="https://github-profile-trophy.vercel.app/?username=e-Yasmina&theme=onedark&no-frame=true&row=1&column=6">
   </picture>
 </div> -->
-<div align="center">
+<!-- <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=e-Yasmina&theme=react-dark&hide_border=true&area=true">
+</div> -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=e-Yasmina&theme=react-dark&hide_border=true">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=e-Yasmina&theme=github-light&hide_border=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=e-Yasmina&theme=react-dark&hide_border=true">
+  </picture>
 </div>
 
 ---
