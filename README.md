@@ -20,7 +20,7 @@ Building things that matter — one commit at a time
 
 <div align="center">
   <img width="32%" src="https://github-readme-stats.vercel.app/api?username=e-Yasmina&show_icons=true&theme=transparent&hide_border=true"/>
-  <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=e-Yasmina&layout=compact&theme=transparent&hide_border=true"/>
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=e-Yasmina&layout=compact&theme=transparent&hide_border=true"/>
   <img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=e-Yasmina&theme=transparent&hide_border=true"/>  
 </div>
 
