@@ -28,9 +28,9 @@ Building things that matter — one commit at a time
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=e-Yasmina&theme=radical&hide_border=true"/>
 </div>
 
-<!-- <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=e-Yasmina&theme=radical&no-frame=true&column=7"/>
-</div> -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=e-Yasmina&theme=onedark&no-frame=true&row=1&column=6"/>
+</div>
 
 ---
 
