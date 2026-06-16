@@ -15,6 +15,7 @@ jobs:
           github_user_name: e-Yasmina
           outputs: |
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?palette=github-light
       - uses: actions/upload-artifact@v4
         with:
           name: snake
