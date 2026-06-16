@@ -21,7 +21,7 @@ Building things that matter — one commit at a time
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=e-Yasmina&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=e-Yasmina&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=e-Yasmina&show_icons=true&theme=light&include_all_commits=true&count_private=true&hide_border=true">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=e-Yasmina&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true">
   </picture>
   <picture>
@@ -39,12 +39,15 @@ Building things that matter — one commit at a time
   </picture>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=e-Yasmina&theme=onedark&no-frame=true&row=1&column=6">
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=e-Yasmina&theme=flat&no-frame=true&row=1&column=6">
     <img src="https://github-profile-trophy.vercel.app/?username=e-Yasmina&theme=onedark&no-frame=true&row=1&column=6">
   </picture>
+</div> -->
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=e-Yasmina&theme=react-dark&hide_border=true&area=true">
 </div>
 
 ---
@@ -89,7 +92,7 @@ Building things that matter — one commit at a time
 
 ## 📫 Let's Connect!
 
-<div align="center">
+<div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasmina-elbernoussi-7146a2224)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasminaelbernoussi@gmail.com)
