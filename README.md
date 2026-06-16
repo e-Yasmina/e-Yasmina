@@ -19,20 +19,9 @@ Building things that matter — one commit at a time
 ## ⚡ GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=e-Yasmina&show_icons=true&theme=transparent&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=e-Yasmina&layout=compact&theme=transparent&hide_border=true"/>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=e-Yasmina&layout=compact&theme=radical&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=e-Yasmina&layout=compact&theme=default&hide_border=true">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=e-Yasmina&layout=compact&theme=radical&hide_border=true">
-  </picture>
-
-   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=e-Yasmina&theme=radical&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=e-Yasmina&theme=default&hide_border=true">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=e-Yasmina&theme=radical&hide_border=true">
-  </picture>
+  <img width="32%" src="https://github-readme-stats.vercel.app/api?username=e-Yasmina&show_icons=true&theme=transparent&hide_border=true"/>
+  <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=e-Yasmina&layout=compact&theme=transparent&hide_border=true"/>
+  <img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=e-Yasmina&theme=transparent&hide_border=true"/>  
 </div>
 
 
@@ -107,7 +96,7 @@ Building things that matter — one commit at a time
 
 ---
 
-<div align="center">
+<div>
   <img src="https://komarev.com/ghpvc/?username=e-Yasmina&color=blueviolet&style=flat-square&label=Profile+Views"/>
   <br>
   <sub>⚡ "First, solve the problem. Then, write the code."</sub>
