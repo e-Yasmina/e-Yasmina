@@ -91,7 +91,7 @@ Building things that matter — one commit at a time
 
 <div>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-e--yasmina.com-3E4AEB?style=for-the-badge&logo=https://raw.githubusercontent.com/e-Yasmina/e-Yasmina/main/logo.png)](https://e-yasmina.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-e--yasmina.com-3E4AEB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://e-yasmina.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasmina-elbernoussi-7146a2224)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasminaelbernoussi@gmail.com)
 
