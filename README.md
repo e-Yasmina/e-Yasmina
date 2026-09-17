@@ -19,13 +19,12 @@ Building things that matter — one commit at a time
 ## ⚡ GitHub Analytics
 
 <div align="center">
-  <img width="32%" src="https://github-stats-extended.vercel.app/api?username=e-Yasmina&show_icons=true&theme=transparent"/>
+  <img width="32%" src="https://github-stats-extended.vercel.app/api?username=e-Yasmina&show_icons=true&theme=transparent&hide_border=true"/>
   &nbsp;&nbsp;&nbsp;
-  <img width="28%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=e-Yasmina&layout=compact&theme=transparent"/>
+  <img width="28%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=e-Yasmina&layout=compact&theme=transparent&hide_border=true"/>
   &nbsp;&nbsp;&nbsp;
-  <img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=e-Yasmina&theme=transparent"/>  
+  <img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=e-Yasmina&theme=transparent&hide_border=true"/>  
 </div>
-z
 
 <!-- <div align="center">
   <picture>
